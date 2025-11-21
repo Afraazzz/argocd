@@ -1,0 +1,4 @@
+apiVersion: v2
+name: php-nginx-app
+version: 1.0.0
+description: PHP + Nginx App with 2 Pods

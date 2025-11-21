@@ -1,0 +1,15 @@
+phpApp:
+  image: "afraz44/php-app"
+  tag: "v1"
+  port: 9000
+nginxApp:
+  image: "afraz44/nginx-app"
+  tag: "v1"
+  port: 80
+
+
+
+
+
+
+
